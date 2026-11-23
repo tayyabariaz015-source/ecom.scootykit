@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <ellipse cx="200" cy="342" rx="120" ry="12" fill="#0B111E" opacity=".12"/>
+  <rect x="96" y="120" width="190" height="212" rx="36" fill="#111827"/>
+  <rect x="116" y="146" width="150" height="86" rx="16" fill="#0B111E"/>
+  <text x="191" y="205" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="44" fill="#F43F5E">32</text>
+  <text x="246" y="222" text-anchor="end" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="14" fill="#94A3B8">PSI</text>
+  <circle cx="150" cy="276" r="16" fill="#334155"/><circle cx="232" cy="276" r="16" fill="#F43F5E"/>
+  <path d="M286 180c48 0 40 70 0 70" fill="none" stroke="#475569" stroke-width="12" stroke-linecap="round"/>
+  <path d="M286 250c30 0 54 20 54 50" fill="none" stroke="#1F2937" stroke-width="10" stroke-linecap="round"/>
+  <rect x="330" y="296" width="22" height="30" rx="6" fill="#94A3B8"/>
+</svg>
